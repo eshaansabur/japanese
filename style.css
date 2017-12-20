@@ -1,0 +1,217 @@
+.one
+{
+    background-image:url('https://s33.postimg.org/8f1c4qgf3/jumbotron.jpg');
+    background-size:cover;
+    background-position:center;
+    
+    min-height: 100vh;
+}
+.two
+{
+    background-image:url('https://s33.postimg.org/qxaa340jz/pic2.jpg');
+    background-size:cover;
+    background-position:center;
+    
+    min-height: 100vh;
+}
+.expt
+{
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+.expt2
+{
+    padding: 30px;
+    border-top: 1px solid rgb(236,236,234);
+    border-bottom: 1px solid rgb(236,236,234);
+}
+.padder
+{
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left:30px;
+    margin-right:40px;
+    line-height: 30px;
+}
+.first
+{
+    background-color: rgb(240,235,231);
+}
+.haha
+{
+    background-color: rgb(188,179,150);
+    padding: 20px;
+    color:white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.demo
+{
+    border-right: 1px white solid;
+    padding-left:5px;
+    padding-right:5px;
+    font-weight: bold;
+    font-size: 23px;
+}
+#this
+{
+    padding-bottom: 50px;
+}
+.three
+{
+    background-image:url('https://s17.postimg.org/4c4yb7mrj/bal4-09.jpg');
+    background-size:cover;
+    background-position:center;
+    
+    min-height: 100vh;
+}
+.expt3
+{
+    margin-top: 40px;
+}
+.good
+{
+    padding-top: 60px;
+}
+#thirdh
+{
+    background-color: rgb(240,235,231);
+}
+.red
+{
+    line-height: 30px;
+}
+.ddd
+{
+    margin-bottom: 40px;
+}
+#blue
+{
+    background-color: rgb(49,45,44);
+    color:white;
+}
+.pica
+{
+    font-size: 22px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right:40px;
+    padding-left: 0px;
+}
+.ttt
+{
+    background-color: rgb(186,167,137);
+    color: white;
+    margin-bottom:30px;
+}
+.pp
+{
+    background-color: rgb(235,230,224);
+    
+}
+.zzz
+{
+    color: rgb(167,156,90);
+    border-top: 2px dotted rgb(182,181,177);
+    padding:20px;
+    border-bottom: 2px dotted rgb(182,181,177);
+}
+.sss
+{
+    background-color:white;
+    padding-left:0px;
+    margin-bottom: 60px;
+}
+.pipi
+{
+    margin-bottom: 30px;
+}
+.hola
+{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(161,20,36);
+    color:white;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.its
+{
+    background-color: rgb(245, 244,240);
+}
+#toto
+{
+    text-align:center;
+    padding-left:100px;
+    padding-right:250px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+    border: solid 5px rgb(199,199,199);
+
+    
+    
+}
+#tata
+{
+    font-size: 18px;
+    float:right;
+}
+.btn-warning
+{
+    
+    text-align: center;
+    padding-left: 70px;
+    padding-right:70px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    top:10px;
+    left: 60px;
+    
+}
+.fa
+{
+    padding:10px;
+    font-size:20px;
+}
+#menu
+{
+    background-color: black;
+    color: white;
+    padding: 40px;
+}
+#menu ul li{
+  list-style:none;
+  font-weight:bold;
+}
+#menu ul li a{
+  text-decoration:none;
+    color: white;
+    font-size: 18px;
+}
+#menu ul li a:hover{
+  color:green;
+}
+#menu div .col-md-2
+{
+    margin-right: 10px;
+}
+.sm
+{
+    color:rgb(108,108,108);
+}
+.reda
+{
+    color: red;
+}
+.text-bold
+{
+    font-weight: bold;
+}
+#footer
+{
+    margin-top: 85px;
+}
